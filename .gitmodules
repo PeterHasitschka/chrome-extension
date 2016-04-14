@@ -1,3 +1,4 @@
 [submodule "visualization-widgets"]
 	path = visualization-widgets
 	url = https://github.com/EEXCESS/visualization-widgets.git
+	branch= develop_bookmarks_c4
